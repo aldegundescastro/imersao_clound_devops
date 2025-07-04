@@ -49,6 +49,9 @@ Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e
 
    Aqui você pode testar todos os endpoints da API de forma interativa.
 
+7. **Docker:**
+   docker build -t alura_devops .
+
 ---
 
 ## Estrutura do Projeto
